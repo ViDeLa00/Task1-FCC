@@ -1,4 +1,4 @@
-def arithmetic_arranger(problems, val=False):
+def arithmetic_formatter(problems, val=False):
     arranged_problems = ''
     if len(problems) > 5:
         arranged_problems = "Error: Too many problems."
